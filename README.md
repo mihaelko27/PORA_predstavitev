@@ -141,3 +141,7 @@ Tako pa za vsako sliko kličem.
         }
     }
 ```
+
+Tu je prikazano da se res uporabijo konfiguracije katere smo nastavili v ImageLoder.
+
+![Uporaba gif](/res/use_case.gif)
