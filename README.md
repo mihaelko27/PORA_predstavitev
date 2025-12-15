@@ -4,14 +4,14 @@ Coil (Coroutine Image Loader) je odprtokodna knjižnica za nalaganje slik v Andr
 
 # Prednosti ✅
 
-- Je hiter ker izvaja številne optimizacije, vključno s predpomnjenjem pomnilnika in diska, zmanjševanjem vzorčenja slike in samodejnim zaustavljanjem/preklicem zahtev
+- Je hitera ker izvaja številne optimizacije, vključno s predpomnjenjem pomnilnika in diska, zmanjševanjem vzorčenja slike in samodejnim zaustavljanjem/preklicem zahtev
 - Coli-jev API je enostaven za uporabo saj izkorišča jezikovne funkicje Kotlina za preprostost in minimalno uporabo.
-- je lahek "Lightweight", sej je odvisen le od Kotlina, Coroutines in deluje brezhibno z "Google's R8 code shrinker"
+- je "Lightweight", zavzema manj prostora kot  Picasso in Glide 
 
 # Slabosti ❌
 
-- Ni podprt za zelo stare Andorid različice. Minimalen je API 21+
-- Ker je uporablja Kotlin sintasko, je nejegova uporaba v Java-i nekoliko manj elegantna in zahtevnejša
+- Ni podprta za zelo stare Andorid različice. Minimalen je API 21+
+- Ker uporablja Kotlin sintasko, je nejegova uporaba v Java-i nekoliko manj elegantna in zahtevnejša
 
 # Licenca
 
@@ -19,9 +19,6 @@ Avtorske pravice 2025 Coil Contributors. Licencirano pod licenco [Apache 2.0](ht
 
 - Lahko uporabljaš Coil v osebnih ali komercialnih projektih brez plačila.
 - Lahko spremeniš izvorno kodo knjižnice ali jo vključiš v svojo aplikacijo.
-
-❗ Eden glavnih pogojev
-– Če distribucijo spremeniš ali vključiš kodo Coil-a, moraš ohraniti obvestila o avtorstvu in licenčne pogoje iz Apache 2.0 licence. To pomeni, da moraš vključiti kopijo licence v svojo aplikacijo ali dokumentacijo, če širiš izvorno kodo ali binarno distribucijo
 
 # Ocenitev števila uporabnikov
 
