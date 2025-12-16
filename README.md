@@ -29,7 +29,6 @@ Na podlagi star-ov in forkov repozitorija bi lahko ocenilo število uporabnikov 
 # Časovna zahtevnost
 
 - Nalaganje slik iz omrežja s pomočjo URL-ja je O(n), pri čemer je n = velikost slike
-- Nalaganje slike iz predponmilnika je O(1)
 - Nalaganje slike iz diska pa O(n), pri čemer je n = velikost slike
 
 # Prostorska zahtevnost
